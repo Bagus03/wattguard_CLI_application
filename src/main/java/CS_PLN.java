@@ -1,4 +1,3 @@
-package Informasi;
 
 public class CS_PLN implements InfoService {
 

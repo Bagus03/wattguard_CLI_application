@@ -1,4 +1,3 @@
-package Informasi;
 
 public class Informasi implements InfoService {
 

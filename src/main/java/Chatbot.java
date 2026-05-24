@@ -1,4 +1,4 @@
-package Informasi;
+
 
 import java.util.Scanner;
 
