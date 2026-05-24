@@ -16,7 +16,7 @@ public class Login extends user {
     public static boolean prosesLogin(HashMap<String, String> userMap) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("========================================");
-        System.out.println("       Selamat Datang di WattGuard");
+        System.out.println("       SELAMAT DATANG DI WATTGUARD       ");
         System.out.println("========================================");
 
         while (true) {
